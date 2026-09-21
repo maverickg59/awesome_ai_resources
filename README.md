@@ -133,6 +133,7 @@ Stanford CS25 Links
 ### Tools:
 - https://opentools.ai
 - https://deepwiki.com
+- [NextReset](https://nextreset.ai/) - Source-linked public Codex reset history, official AI service incident references, and a browser-local personal timer.
 - https://www.youtube.com/watch?v=6eBSHbLKuN0
 
 ## Research Papers:
