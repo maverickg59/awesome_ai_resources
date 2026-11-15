@@ -105,6 +105,7 @@ Stanford CS25 Links
 - https://engineering.block.xyz/blog/blocks-playbook-for-designing-mcp-servers
 - https://modelcontextprotocol.io/introduction
 - https://github.com/open-webui/mcpo
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote Streamable HTTP MCP server for independent live music venues and tour routing
 
 ### Running Locally - Model Engine
 - https://github.com/ollama/ollama
